@@ -105,7 +105,7 @@
 			objLoader2.setMaterials( materials );
 			objLoader2.setPath( 'models/' );
 			objLoader2.load( 'building.obj', function ( object ) {
-				object.position.x = 32;
+				object.position.x = 8;
 				object.position.y = -3;
 				object.position.z = 3;
 				object.rotation.x = -1.6;
